@@ -1,0 +1,417 @@
+{
+  "clientIdentCode": "HANGZHOU",
+  "clientSystemId": "HANGZHOU",
+  "consignment": {
+    "consignmentIdClientSystem": "SD10001878250087",
+    "consignmentNumber": "DE-MARTINS STYLE-210803-1",
+    "deliveries": [{
+      "customsOffices": [{
+        "officeCode": "DE003453",
+        "officeType": "EXPORT",
+        "sequenceNumber": "1"
+      },
+        {
+          "officeCode": "DE003302",
+          "officeType": "EXIT",
+          "sequenceNumber": "2"
+        }
+      ],
+      "decisiveDate": {
+        "dateInTimezone": "2021-08-03 11:44:52",
+        "timezone": "GMT+02:00"
+      },
+      "deliveryIdClientSystem": "SD10001878250087",
+      "deliveryNumber": "DE-MARTINS STYLE-210803-1",
+      "destinationCountryCode": "CN",
+      "dispatchCountryCode": "DE",
+      "extension": {
+        "exportDE": {
+          "presentationOfGoodsEndDate": {
+            "dateInTimezone": "2021-08-04 13:00:00",
+            "timezone": "GMT+02:00"
+          },
+          "presentationOfGoodsStartDate": {
+            "dateInTimezone": "2021-08-03 13:00:00",
+            "timezone": "GMT+02:00"
+          }
+        }
+      },
+      "goodsDescription": [{
+        "languageISOCode": "de",
+        "text": "Siehe Liste der Positionen, 19 cardboard box, Invoice: DE-MARTINS STYLE-210803-1"
+      }],
+      "invoices": [{
+        "invoiceIdClientSystem": "SD10001878250087",
+        "invoiceNumber": "DE-MARTINS STYLE-210803-1",
+        "invoicePrice": {
+          "currencyIso": "EUR",
+          "value": "3875.24"
+        }
+      }],
+      "items": [{
+        "classifications": [{
+          "classificationType": "COCOEXPORT",
+          "classificationValue": "82119300"
+        }],
+        "customsProcedures": [{
+          "customsProcedureCode": "1000",
+          "customsProcedureType": "EXPORTPROC"
+        }],
+        "destinationCountryCode": "CN",
+        "dispatchCountryCode": "DE",
+        "extension": {
+          "exportDE": {
+            "producedDocuments": [{
+              "reference": "784-45861303",
+              "typeCode": "N741"
+            },
+              {
+                "reference": "DE-MARTINS STYLE-210803-1",
+                "typeCode": "N325"
+              }
+            ]
+          }
+        },
+        "goodsDescription": [{
+          "languageISOCode": "de",
+          "text": "Messer (ausgenommen Messer der Position 8208) mit schneidender Klinge, auch gezahnt (einschließlich Klappmesser für den Gartenbau), und Klingen dafür"
+        }],
+        "grossMass": {
+          "unit": "kg",
+          "value": "0.11"
+        },
+        "itemIdClientSystem": "82119300",
+        "itemNumber": "1",
+        "netMass": {
+          "unit": "kg",
+          "value": "0.11"
+        },
+        "netPrice": {
+          "currencyIso": "EUR",
+          "value": "42.78"
+        },
+        "originCountryCode": "DE",
+        "quantities": [{
+          "quantity": {
+            "unit": "st",
+            "value": "1"
+          },
+          "quantityType": "ITEM"
+        }],
+        "statisticalValue": {
+          "currencyIso": "EUR",
+          "value": "42.78"
+        }
+      },
+        {
+          "classifications": [{
+            "classificationType": "COCOEXPORT",
+            "classificationValue": "85094000"
+          }],
+          "customsProcedures": [{
+            "customsProcedureCode": "1000",
+            "customsProcedureType": "EXPORTPROC"
+          }],
+          "destinationCountryCode": "CN",
+          "dispatchCountryCode": "DE",
+          "extension": {
+            "exportDE": {
+              "producedDocuments": [{
+                "reference": "784-45861303",
+                "typeCode": "N741"
+              },
+                {
+                  "reference": "DE-MARTINS STYLE-210803-1",
+                  "typeCode": "N325"
+                }
+              ]
+            }
+          },
+          "goodsDescription": [{
+            "languageISOCode": "de",
+            "text": "Elektromechanische Haushaltsgeräte mit eingebautem Elektromotor, ausgenommen Staubsauger der Position 8508"
+          }],
+          "grossMass": {
+            "unit": "kg",
+            "value": "18.80"
+          },
+          "itemIdClientSystem": "85094000",
+          "itemNumber": "2",
+          "netMass": {
+            "unit": "kg",
+            "value": "18.80"
+          },
+          "netPrice": {
+            "currencyIso": "EUR",
+            "value": "1368.30"
+          },
+          "originCountryCode": "DE",
+          "quantities": [{
+            "quantity": {
+              "unit": "st",
+              "value": "11"
+            },
+            "quantityType": "ITEM"
+          }],
+          "statisticalValue": {
+            "currencyIso": "EUR",
+            "value": "1368.30"
+          }
+        },
+        {
+          "classifications": [{
+            "classificationType": "COCOEXPORT",
+            "classificationValue": "42050090"
+          }],
+          "customsProcedures": [{
+            "customsProcedureCode": "1000",
+            "customsProcedureType": "EXPORTPROC"
+          }],
+          "destinationCountryCode": "CN",
+          "dispatchCountryCode": "DE",
+          "extension": {
+            "exportDE": {
+              "producedDocuments": [{
+                "typeCode": "Y904"
+              },
+                {
+                  "typeCode": "Y900"
+                },
+                {
+                  "typeCode": "Y906"
+                },
+                {
+                  "reference": "784-45861303",
+                  "typeCode": "N741"
+                },
+                {
+                  "reference": "DE-MARTINS STYLE-210803-1",
+                  "typeCode": "N325"
+                }
+              ]
+            }
+          },
+          "goodsDescription": [{
+            "languageISOCode": "de",
+            "text": "Andere Waren aus Leder oder rekonstituiertem Leder"
+          }],
+          "grossMass": {
+            "unit": "kg",
+            "value": "0.00"
+          },
+          "itemIdClientSystem": "42050090",
+          "itemNumber": "3",
+          "netMass": {
+            "unit": "kg",
+            "value": "0.00"
+          },
+          "netPrice": {
+            "currencyIso": "EUR",
+            "value": "66.39"
+          },
+          "originCountryCode": "DE",
+          "quantities": [{
+            "quantity": {
+              "unit": "st",
+              "value": "1"
+            },
+            "quantityType": "ITEM"
+          }],
+          "statisticalValue": {
+            "currencyIso": "EUR",
+            "value": "66.39"
+          }
+        },
+        {
+          "classifications": [{
+            "classificationType": "COCOEXPORT",
+            "classificationValue": "71171100"
+          }],
+          "customsProcedures": [{
+            "customsProcedureCode": "1000",
+            "customsProcedureType": "EXPORTPROC"
+          }],
+          "destinationCountryCode": "CN",
+          "dispatchCountryCode": "DE",
+          "extension": {
+            "exportDE": {
+              "producedDocuments": [{
+                "reference": "784-45861303",
+                "typeCode": "N741"
+              },
+                {
+                  "reference": "DE-MARTINS STYLE-210803-1",
+                  "typeCode": "N325"
+                }
+              ]
+            }
+          },
+          "goodsDescription": [{
+            "languageISOCode": "de",
+            "text": "Fantasieschmuck"
+          }],
+          "grossMass": {
+            "unit": "kg",
+            "value": "0.01"
+          },
+          "itemIdClientSystem": "71171100",
+          "itemNumber": "4",
+          "netMass": {
+            "unit": "kg",
+            "value": "0.01"
+          },
+          "netPrice": {
+            "currencyIso": "EUR",
+            "value": "2397.77"
+          },
+          "originCountryCode": "DE",
+          "quantities": [{
+            "quantity": {
+              "unit": "st",
+              "value": "6"
+            },
+            "quantityType": "ITEM"
+          }],
+          "statisticalValue": {
+            "currencyIso": "EUR",
+            "value": "2397.77"
+          }
+        }
+      ],
+      "itinerary": [{
+        "countryCode": "DE",
+        "sequenceNumber": "1"
+      },
+        {
+          "countryCode": "CN",
+          "sequenceNumber": "2"
+        }
+      ],
+      "locations": [{
+        "city": "Limburg an der Lahn",
+        "code": "FRA",
+        "complement": "DaDa express GmbH",
+        "country": "DE",
+        "locationType": "LOADING_PLACE",
+        "name": "DaDa express GmbH",
+        "postCode": "65549",
+        "street": "Stephanshügel 18"
+      }],
+      "packages": [{
+        "grossMass": {
+          "unit": "kg",
+          "value": "6.92"
+        },
+        "marksAndNumbers": {
+          "languageISOCode": "de",
+          "text": "LP00460278086129,LP00460331025507... etc."
+        },
+        "packageIdClientSystem": "DE-MARTINS STYLE-210803-1",
+        "quantity": "7",
+        "typeUneceCode": "PK"
+      }],
+      "parties": [{
+        "city": "Kelsterbach",
+        "companyNumber": "DE781429999999999",
+        "contact": {
+          "email": "e-global-ge@cosco-air.com.cn",
+          "forename": "XXX",
+          "phone": "0049 999999999",
+          "surname": "XXX"
+        },
+        "country": "DE",
+        "customsIds": [{
+          "identification": "DE781429999999999",
+          "identificationType": "EORI"
+        },
+          {
+            "identification": "0001",
+            "identificationType": "BRANCH"
+          }
+        ],
+        "customsProcess": "EXPORT_DE",
+        "name": "XXXXX GmbH",
+        "partyType": "AGENT",
+        "postCode": "12345",
+        "street": "Im Taubengrund 999"
+      },
+        {
+          "city": "Hamburg",
+          "companyNumber": "DE975072999999999",
+          "country": "DE",
+          "customsIds": [{
+            "identification": "DE975072999999999",
+            "identificationType": "EORI"
+          },
+            {
+              "identification": "0001",
+              "identificationType": "BRANCH"
+            }
+          ],
+          "customsProcess": "EXPORT_DE",
+          "name": "MARTINS STYLE GMBH",
+          "partyType": "EXPORTER",
+          "postCode": "22761",
+          "street": "Julienstr. 3"
+        },
+        {
+          "city": "Hamburg",
+          "companyNumber": "DE975072999999999",
+          "country": "DE",
+          "customsIds": [{
+            "identification": "DE975072999999999",
+            "identificationType": "EORI"
+          },
+            {
+              "identification": "0001",
+              "identificationType": "BRANCH"
+            }
+          ],
+          "customsProcess": "EXPORT_DE",
+          "name": "MARTINS STYLE GMBH",
+          "partyType": "DECLARANT",
+          "postCode": "22761",
+          "street": "Julienstr. 3"
+        },
+        {
+          "city": "HONGKONG",
+          "country": "HK",
+          "name": "Taobao China Holding Limited",
+          "partyType": "CONSIGNEE",
+          "postCode": 12345 ",
+          "street": "26/F, Tower One, Times Square,1 Matheson Street"
+        }
+      ],
+      "totalGrossMass": {
+        "unit": "kg",
+        "value": "18.918"
+      },
+      "totalNetMass": {
+        "unit": "kg",
+        "value": "18.918"
+      },
+      "tradeTerms": {
+        "incotermCode": ""
+      },
+      "transportMeans": [{
+        "identification": "CZ325",
+        "meansType": "BORDER",
+        "nationalityCode": "DE",
+        "transportMeansCode": "40",
+        "transportModeCode": "4"
+      }]
+    }],
+    "organizationUnitClientSystem": "DE_COSCO",
+    "personInCharge": {
+      "email": "e-global-ge@cosco-air.com.cn",
+      "forename": "XXX",
+      "phone": "0049 999999999",
+      "surname": "XXX"
+    },
+    "profileCode": "EXP"
+  },
+  "resultLanguageIsoCodes": [
+    "en"
+  ],
+  "userName": "WSM"
+}
